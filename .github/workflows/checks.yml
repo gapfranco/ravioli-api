@@ -1,7 +1,7 @@
 ---
 name: Checks
 
-on: [push]
+runs-on: [push]
 
 jobs:
   test-link:
